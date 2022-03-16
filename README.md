@@ -1,6 +1,8 @@
 # Expense_o_Meter
 
-A new Flutter project.
+Expense-o-Meter is a Flutter Based Mobile 📲Application 
+With An Amazing UI💻that enables the users to 
+Keep a track of their daily income💰💹 and expenditure.
 
 ## Getting Started
 
