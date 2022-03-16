@@ -1,4 +1,4 @@
-# expense_o_meter
+# Expense_o_Meter
 
 A new Flutter project.
 
